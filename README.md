@@ -1,7 +1,7 @@
 # 🚴‍♂️ Bike Rental Prediction - Azure Machine Learning
 
 ## 📒 Descrição
-Este projeto é um Laboratório para aprendizado acerca do Azure Machine Learning. utilizou-se o Azure ML para prever a quantidade de bicicletas alugadas com base em dados históricos. O objetivo é aplicar técnicas de aprendizado de máquina para melhorar a precisão das previsões de aluguel.
+O projeto é um Laboratório para aprendizado acerca do Azure Machine Learning. utilizou-se o Azure ML para prever a quantidade de bicicletas alugadas com base em dados históricos. O objetivo é aplicar técnicas de aprendizado de máquina para melhorar a precisão das previsões de aluguel.
 
 ## 🧐 Processo de Criação
 O projeto foi desenvolvido em várias etapas, utilizando o recurso de Automated Machine Learning (AutoML) do Azure. Abaixo estão os passos principais da configuração:
